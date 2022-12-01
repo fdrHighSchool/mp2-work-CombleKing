@@ -9,11 +9,12 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * ```
+  *
+  ```
   if(year%4==0 || year %100 == 0){
   //Do Things
   }//end if statement
-    ```
+  ```
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
@@ -49,7 +50,8 @@
   }
   ```
 
-  * ```
+  *
+  ```
   Scanner console = new Scanner(System.in);
   System.out.print("What is your favorite color? ");
   String name = console.nextline();
