@@ -58,4 +58,5 @@
   if (name.equals"blue") {
   System.out.println("Mine, too!");
   }
+  console.close();
   ```
