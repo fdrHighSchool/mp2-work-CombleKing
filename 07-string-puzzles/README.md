@@ -3,16 +3,16 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
+    * takes the number of a on a string to the end of the string.
 
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * takes the part of the string from int a,inclusive,  to int b,exclusive.
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * returns the first instance of a letter wthin a string occuring.
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * checks if one string is the same as another string.
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
@@ -21,4 +21,4 @@ for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
 ```
-  * **YOUR WRITING HERE**
+  * the for loop will run until i is less than the length string s. the for loop could check every letter within stirng s
