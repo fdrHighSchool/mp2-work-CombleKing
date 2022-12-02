@@ -55,7 +55,7 @@
   Scanner console = new Scanner(System.in);
   System.out.print("What is your favorite color? ");
   String name = console.nextline();
-  if (name.equals"blue") {
+  if (name.equals("blue")) {
   System.out.println("Mine, too!");
   }
   console.close();
