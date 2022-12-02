@@ -26,7 +26,7 @@
 
     * Incorrect, relace brackets with paranthesis, if (x ==10) {
 
-  * if x = 10 then {
+  * if x = 10{
 
     * Incorrect, add paranthesis closing x = 10, and add an equal sign before 10, if (x==10){
 
